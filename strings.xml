@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Game Macro</string>
+    <string name="accessibility_description">Kullanıcının başlattığı makro düğmeleri için dokunma hareketlerini gerçekleştirir.</string>
+</resources>
